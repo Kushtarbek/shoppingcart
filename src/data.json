@@ -1,0 +1,53 @@
+  
+{
+    "products": [
+      {
+        "_id": "item1",
+        "image": "https://cdn.shopify.com/s/files/1/0008/9296/0821/products/500x500-iPhones11-red_275ed70e-5e05-4117-b572-8ac25adf8eb8_160x160.jpg?v=1598380326",
+        "title": "Apple iPhone X",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "colors": ["white", "black", "space green", "red"],
+        "price": 799.99
+      },
+      {
+        "_id": "item2",
+        "image": "https://cdn.shopify.com/s/files/1/0008/9296/0821/products/10906_source_1524017779_160x160.png?v=1571439507",
+        "title": "Apple iPhone 6",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "colors": ["white", "black", "green"],
+        "price": 499.99
+      },
+      {
+        "_id": "item3",
+        "image": "https://cdn.shopify.com/s/files/1/0008/9296/0821/products/500x500_0051_iPhone_8_Plus_RED_4cde66b8-2561-435e-8a59-f87557309041_160x160.jpg?v=1571439522",
+        "title": "Apple Iphone 8",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "colors": ["white", "black", "gold"],
+        "price": 599.99
+      },
+      {
+        "_id": "item4",
+        "image": "https://cdn.shopify.com/s/files/1/0008/9296/0821/products/500x500-iPhones11-red_275ed70e-5e05-4117-b572-8ac25adf8eb8_160x160.jpg?v=1598380326",
+        "title": "Samsung S 9 mini",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "colors": ["black"],
+        "price": 455.99
+      },
+      {
+        "_id": "item5",
+        "image": "https://cdn.shopify.com/s/files/1/0008/9296/0821/products/500x500_0051_iPhone_8_Plus_RED_4cde66b8-2561-435e-8a59-f87557309041_160x160.jpg?v=1571439522",
+        "title": "Samsung S 11",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "colors": ["white", "yellow", "green"],
+        "price": 10.9
+      },
+      {
+        "_id": "dress6",
+        "image": "https://cdn.shopify.com/s/files/1/0008/9296/0821/products/10906_source_1524017779_160x160.png?v=1571439507",
+        "title": "Nexus LT",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "colors": ["white", "black"],
+        "price": 49.9
+      }
+    ]
+  }
