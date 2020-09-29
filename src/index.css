@@ -14,7 +14,7 @@ input,
 select,
 button,
 textarea {
-  font-family: Montserrat, Arial, sans-serif;
+  font-family: Montserrat , Arial, sans-serif;
   font-size: 1.6rem;
 }
 
@@ -133,4 +133,12 @@ button:hover{
   background-color: #cdcdd3e8;
   display: block;
   
+}
+
+.filter{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: .1rem #c0c0c0 solid;
 }
